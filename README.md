@@ -1,2 +1,2 @@
 # tiny-profiller-redbpf-rs
-A CPU profiller PoC written in Rust using Redbpf (an eBPF crate)
+A CPU profiler PoC is written in Rust using Redbpf (an eBPF crate)
